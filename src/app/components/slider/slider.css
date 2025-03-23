@@ -1,0 +1,85 @@
+.item-container {
+  position: relative;
+  width: 100%;
+}
+
+.item-image {
+  width: 100%;
+  height: 650px;
+  display: block;
+}
+
+.p-galleria .p-galleria-indicators .p-galleria-indicator.p-highlight button {
+  background: #0534cf;
+  color: #070614;
+  border-radius: 50%;
+}
+.p-galleria .p-galleria-indicators {
+  margin-top: 10px;
+}
+
+.p-galleria .p-galleria-indicators .p-galleria-indicator button {
+  background-color: #d1d5db;
+  width: 1rem;
+  height: 1rem;
+  transition: background-color 0.2s, color 0.2s, box-shadow 0.2s;
+  border-radius: 50%;
+}
+
+/* .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+} */
+
+/* .centered-container {
+    display: grid;
+    place-items: center;
+    height: 100%;
+    margin-bottom: 220px;
+} */
+
+.centered-heading {
+  text-align: center;
+  margin: 0;
+  font-size: 80px;
+  font-weight: bold;
+  margin-top: 180px;
+}
+
+.centered-paragraph {
+  margin: 0;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.p-galleria-caption {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .item-container {
+    /* Adjust styles for mobile */
+    height: auto;
+  }
+  .item-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .centered-heading {
+    text-align: center;
+    margin: 0;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 25px;
+  }
+  .centered-container {
+    margin-bottom: 100px;
+  }
+}

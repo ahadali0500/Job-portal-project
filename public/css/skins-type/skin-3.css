@@ -1,0 +1,2032 @@
+/*===GENERAL===*/
+.site-bg-primary {
+  background-color: #e47c3f;
+}
+
+.site-text-primary {
+  color: #e47c3f;
+}
+
+.site-bg-gray {
+  background-color: #f9f9f9;
+}
+
+.site-bg-light-purple {
+  background-color: #fff2eb;
+}
+
+.footer-light {
+  color: #232323;
+  background-color: #fff2eb;
+}
+.footer-light .ftr-nw-content .ftr-nw-title {
+  font-size: 20px;
+  color: #232323;
+}
+.footer-light .ftr-nw-content .ftr-nw-form .ftr-nw-subcribe-btn {
+  background-color: #e47c3f;
+}
+.footer-light .widget-title {
+  color: #e47c3f;
+}
+.footer-light .social-icons {
+  margin: 0px;
+}
+.footer-light .social-icons li a {
+  color: #e47c3f;
+}
+.footer-light .social-icons li a:hover {
+  color: #232323;
+}
+.footer-light .widget_services ul li a:hover {
+  color: #e47c3f;
+}
+
+/*Banner home 10*/
+.twm-home-10-banner-section.twm-bne-10-skew:before {
+  background-color: #e47c3f;
+}
+.twm-home-10-banner-section .row .twm-bnr-left-section .twm-bnr-title-large-thin {
+  color: #232323;
+}
+.twm-home-10-banner-section .row .twm-bnr-left-section .twm-bnr-title-large-bold {
+  color: #e47c3f;
+}
+.twm-home-10-banner-section .twm-bnr-popular-search {
+  color: #232323;
+}
+.twm-home-10-banner-section .twm-bnr-popular-search .twm-title {
+  color: #232323;
+}
+.twm-home-10-banner-section .twm-bnr-popular-search a {
+  color: #232323;
+}
+.twm-home-10-banner-section .twm-bnr-popular-search a:hover {
+  color: #e47c3f;
+}
+.twm-home-10-banner-section .twm-bnr-right-section .bnr-media-wrap {
+  background-color: #e47c3f;
+}
+.twm-home-10-banner-section .twm-bnr-right-section .bnr-media-wrap .semi-circle {
+  background-color: #232323;
+}
+
+.header-style-3 .header-nav-btn-section .twm-nav-btn-right .twm-nav-post-a-job {
+  background-color: #e47c3f;
+}
+.header-style-3 .header-nav-btn-section .twm-nav-btn-left .twm-nav-sign-up {
+  color: #e47c3f;
+  background-color: #fff2eb;
+}
+.header-style-3 .header-search a.header-search-icon {
+  color: #232323;
+}
+.header-style-3 .navbar-toggler .icon-bar {
+  background: #232323;
+}
+.header-style-3 .header-nav .nav > li:hover > a {
+  color: #e47c3f;
+}
+.header-style-3 .header-nav .nav > li .sub-menu li:hover > a {
+  color: #e47c3f;
+}
+
+.small-qb-box {
+  background-color: #232323;
+}
+.small-qb-box span.qb-2 {
+  background-color: #e47c3f;
+}
+.small-qb-box span.qb-3 {
+  background-color: #e47c3f;
+}
+
+.site-button {
+  background-color: #e47c3f;
+}
+
+.wt-small-separator {
+  color: #e47c3f;
+}
+
+.description-list li i {
+  background-color: #e47c3f;
+}
+
+.job-categories-block-2 {
+  box-shadow: 0px 0px 25px rgba(56, 152, 226, 0.3);
+}
+.job-categories-block-2:after {
+  background-color: #e47c3f;
+}
+.job-categories-block-2:before {
+  background-color: #e47c3f;
+}
+.job-categories-block-2 .twm-media [class*=flaticon-] {
+  color: #e47c3f;
+}
+.job-categories-block-2 .twm-content .twm-jobs-available {
+  color: #e47c3f;
+  background-color: #fff2eb;
+}
+.job-categories-block-2:hover {
+  background-color: #e47c3f;
+}
+
+.twm-explore-content-2 {
+  background-color: #232323;
+}
+.twm-explore-content-2 .twm-explore-top-section .twm-title-large p {
+  color: #fff;
+}
+.twm-explore-content-2 .twm-explore-top-section .twm-read-more .site-button {
+  color: #e47c3f;
+  text-shadow: 0 0 0 #e47c3f, 400px 0 0 #e47c3f;
+}
+.twm-explore-content-2 .twm-explore-top-section .twm-read-more .site-button i {
+  color: #e47c3f;
+}
+.twm-explore-content-2 .twm-explore-media-wrap2:after {
+  box-shadow: 20px 20px 0px #e47c3f inset;
+}
+
+/* Home Page 1 Banner Section Css Start */
+.twm-home1-banner-section .twm-bnr-right-section .twm-img-bg-circle-area .twm-img-bg-circle1 span {
+  background-color: rgba(228, 124, 63, 0.3);
+}
+.twm-home1-banner-section .twm-bnr-right-section .twm-img-bg-circle-area .twm-img-bg-circle1 span:after {
+  background-color: #e47c3f;
+}
+.twm-home1-banner-section .twm-bnr-right-section .twm-img-bg-circle-area .twm-img-bg-circle1 span:before {
+  background-color: #e47c3f;
+}
+.twm-home1-banner-section .twm-bnr-right-section .twm-img-bg-circle-area .twm-img-bg-circle2 span {
+  background-color: rgba(228, 124, 63, 0.3);
+}
+.twm-home1-banner-section .twm-bnr-right-section .twm-img-bg-circle-area .twm-img-bg-circle2 span:after {
+  background-color: #e47c3f;
+}
+.twm-home1-banner-section .twm-bnr-right-section .twm-img-bg-circle-area .twm-img-bg-circle3 span {
+  background-color: #e47c3f;
+  opacity: 0.1;
+}
+.twm-home1-banner-section .twm-bnr-right-section .twm-small-ring-l {
+  border: 5px solid #e47c3f;
+}
+.twm-home1-banner-section .twm-bnr-right-section .twm-small-ring-2 {
+  border: 5px solid #e47c3f;
+}
+.twm-home1-banner-section .twm-gradient-text {
+  background: -moz-linear-gradient(top, rgba(220, 220, 220, 0.3) 0%, rgba(0, 0, 0, 0) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(220, 220, 220, 0.3) 0%, rgba(0, 0, 0, 0) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(220, 220, 220, 0.3) 0%, rgba(0, 0, 0, 0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#a6c0d5f0", endColorstr="#00000000",GradientType=0 ); /* IE6-9 */
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.twm-home1-banner-section .twm-bnr-blocks {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+.twm-home1-banner-section .twm-bnr-blocks-3 {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+
+/*Job categories*/
+.job-categories-block {
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.job-categories-block:after {
+  background-color: #e47c3f;
+}
+.job-categories-block:before {
+  background-color: #e47c3f;
+}
+.job-categories-block:hover:after {
+  background-color: #e47c3f;
+}
+.job-categories-block .twm-media [class*=flaticon-] {
+  color: #e47c3f;
+}
+.job-categories-block .twm-content .twm-jobs-available {
+  background-color: #e47c3f;
+}
+
+.job-categories-block-2 {
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.job-categories-block-2:after {
+  background-color: #e47c3f;
+}
+.job-categories-block-2:before {
+  background-color: #e47c3f;
+}
+.job-categories-block-2 .twm-media [class*=flaticon-] {
+  color: #e47c3f;
+}
+.job-categories-block-2 .twm-content .twm-jobs-available {
+  background-color: #fff2eb;
+  color: #e47c3f;
+}
+.job-categories-block-2:hover {
+  background-color: #e47c3f;
+}
+
+/*---Owl slider button---*/
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev {
+  background-color: #e47c3f;
+  box-shadow: 0px 0px 30px rgba(220, 220, 220, 0.3);
+}
+.owl-carousel .owl-nav button.owl-next:hover,
+.owl-carousel .owl-nav button.owl-prev:hover {
+  color: #e47c3f;
+}
+.owl-carousel .owl-nav button.owl-next:active,
+.owl-carousel .owl-nav button.owl-prev:active {
+  color: #e47c3f;
+}
+.owl-carousel .owl-nav button.owl-next:focus,
+.owl-carousel .owl-nav button.owl-prev:focus {
+  color: #e47c3f;
+}
+
+.owl-carousel button.owl-dot {
+  background-color: #e47c3f;
+}
+
+/*process steps*/
+.twm-w-process-steps .twm-w-pro-top .twm-media {
+  box-shadow: -5px 10px 25px rgba(220, 220, 220, 0.3);
+}
+
+.twm-explore-content {
+  background-color: #232323;
+}
+.twm-explore-content .twm-upload-file .site-button {
+  text-shadow: 0 0 0 #e47c3f, 400px 0 0 #e47c3f;
+  background-color: #fff;
+}
+.twm-explore-content .twm-upload-file .site-button:hover {
+  text-shadow: -400px 0 0 #e47c3f, 0 0 0 #e47c3f;
+}
+.twm-explore-content .twm-upload-file .site-button i {
+  color: #e47c3f;
+}
+
+.twm-company-approch-outer:before {
+  background-color: #fff2eb;
+}
+
+/*testimonial style 1*/
+.twm-testimonial-1 .twm-testimonial-1-content:after {
+  background-color: #f9f9f9;
+}
+.twm-testimonial-1 .twm-testimonial-1-content .twm-testi-content .twm-testi-detail .twm-testi-name {
+  color: #e47c3f;
+}
+.twm-testimonial-1 .twm-testimonial-1-content .twm-testi-content .twm-testi-detail .twm-testi-position {
+  color: #232323;
+}
+.twm-testimonial-1 .twm-testimonial-1-content .twm-testi-content .twm-testi-detail .twm-testi-position:after {
+  background-color: #e47c3f;
+}
+
+/*Blog post 1*/
+.twm-blog-post-1-outer {
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.twm-blog-post-1-outer .wt-post-media {
+  box-shadow: 0px 10px 25px rgba(220, 220, 220, 0.3);
+}
+.twm-blog-post-1-outer .wt-post-info .wt-post-meta ul li.post-date {
+  background-color: #232323;
+}
+.twm-blog-post-1-outer .wt-post-info .wt-post-meta ul li.post-date:after {
+  background-color: #232323;
+}
+.twm-blog-post-1-outer .wt-post-info .wt-post-meta ul li.post-date:before {
+  border-top: 8px solid #232323;
+  opacity: 0.8;
+}
+.twm-blog-post-1-outer .wt-post-info .wt-post-meta ul li.post-author {
+  color: #232323;
+}
+.twm-blog-post-1-outer .wt-post-info .wt-post-meta ul li.post-author a {
+  color: #e47c3f;
+}
+
+/*Footer dark version css*/
+.footer-dark .widget-title {
+  color: #fff2eb;
+}
+.footer-dark .widget-title:before {
+  background-color: #e47c3f;
+}
+.footer-dark .social-icons li a:hover {
+  color: #e47c3f;
+}
+
+/*Footer Light version css*/
+.footer-light {
+  background-color: #fff2eb;
+}
+.footer-light .ftr-nw-content .ftr-nw-form .ftr-nw-subcribe-btn {
+  background-color: #e47c3f;
+}
+.footer-light .widget-title {
+  color: #e47c3f;
+}
+.footer-light .social-icons li a {
+  color: #e47c3f;
+}
+.footer-light .widget_services ul li a:hover {
+  color: #e47c3f;
+}
+
+/*Footer News Letter*/
+.ftr-nw-content .ftr-nw-form .form-control {
+  background-color: #fff;
+}
+.ftr-nw-content .ftr-nw-form .ftr-nw-subcribe-btn {
+  background-color: #e47c3f;
+}
+
+/*Recent Post Entry*/
+.recent-posts-entry .wt-post-info .wt-post-meta ul li {
+  color: #e47c3f;
+}
+
+/*Widget Services*/
+.widget_services ul li a:hover {
+  color: #e47c3f;
+}
+
+/*Pricing Table*/
+.pricing-table-1 {
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.pricing-table-1 .p-table-title .wt-title {
+  color: #e47c3f;
+}
+.pricing-table-1 .p-table-inner .p-table-list ul li i {
+  color: #e47c3f;
+}
+
+/* Home Page 2 Banner Section Css Start */
+.twm-home2-banner-section > .row .twm-bnr-left-section .twm-bnr-title-small {
+  color: #e47c3f;
+  background-color: #fff2eb;
+}
+.twm-home2-banner-section .twm-bnr2-right-content .twm-img-bg-circle-area2 .twm-outline-ring-wrap .twm-outline-ring-dott-wrap .outline-dot-1 {
+  background-color: #e47c3f;
+}
+.twm-home2-banner-section .twm-bnr2-right-content .twm-img-bg-circle-area2 .twm-outline-ring-wrap .twm-outline-ring-dott-wrap .outline-dot-2 {
+  background-color: #e47c3f;
+}
+.twm-home2-banner-section .twm-bnr2-right-content .twm-img-bg-circle-area2 .twm-outline-ring-wrap .twm-outline-ring-dott-wrap .outline-dot-3 {
+  background-color: #e47c3f;
+}
+.twm-home2-banner-section .twm-bnr2-right-content .twm-small-ring-l {
+  border: 5px solid #e47c3f;
+}
+.twm-home2-banner-section .twm-bnr2-right-content .twm-small-ring-2 {
+  border: 5px solid #e47c3f;
+}
+.twm-home2-banner-section .twm-bnr2-right-content .twm-bnr-blocks {
+  box-shadow: 0px 0px 40px #fff2eb;
+}
+.twm-home2-banner-section .twm-bnr2-right-content .twm-bnr-blocks .twm-icon {
+  background-color: #e47c3f;
+}
+.twm-home2-banner-section .twm-bnr2-right-content .twm-bnr-blocks-3 {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+
+/*process steps*/
+.twm-w-process-steps .twm-w-pro-top .twm-media {
+  box-shadow: -5px 10px 25px rgba(220, 220, 220, 0.3);
+}
+
+.twm-w-process-steps-2 .twm-w-pro-top .twm-media {
+  box-shadow: -5px 10px 25px rgba(220, 220, 220, 0.3);
+}
+
+.twm-jobs-grid-style1 {
+  box-shadow: 0px 0px 15px rgba(220, 220, 220, 0.3);
+}
+.twm-jobs-grid-style1 .twm-media {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+
+/*Explore New Life*/
+.twm-explore-content-outer-3 .twm-explore-content-3 {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+.twm-explore-content-outer-3 .twm-explore-content-3:after {
+  border-right: 40px solid #fff2eb;
+  border-bottom: 40px solid #fff2eb;
+}
+.twm-explore-content-outer-3 .twm-explore-content-3 .twm-upload-file .site-button {
+  background-color: #e47c3f;
+}
+
+/*testimonial style 2*/
+.twm-testimonial-2 .twm-testimonial-2-content .twm-testi-content {
+  box-shadow: 0px 0px 20px #fff2eb;
+}
+.twm-testimonial-2 .twm-testimonial-2-content .twm-testi-content .twm-testi-detail .twm-testi-name {
+  color: #e47c3f;
+}
+.twm-testimonial-2 .twm-testimonial-2-content .twm-testi-content .twm-testi-detail .twm-testi-position {
+  background-color: #e47c3f;
+}
+
+/*Blog post 2*/
+.twm-blog-post-2-outer .wt-post-info {
+  background-color: #e47c3f;
+}
+
+/*Header Li2*/
+.header-style-light .header-nav-btn-section .twm-nav-btn-left .twm-nav-sign-up {
+  background-color: #fff2eb;
+  color: #e47c3f;
+}
+.header-style-light .header-nav-btn-section .twm-nav-btn-left .twm-nav-sign-up:before {
+  background-color: #e47c3f;
+}
+.header-style-light .header-nav-btn-section .twm-nav-btn-right .twm-nav-post-a-job {
+  background-color: #232323;
+  color: #fff2eb;
+}
+.header-style-light .header-nav-btn-section .twm-nav-btn-right .twm-nav-post-a-job:before {
+  background-color: #e47c3f;
+}
+.header-style-light .header-nav .nav > li .sub-menu li.has-child.nav-active > a {
+  color: #e47c3f;
+}
+.header-style-light .header-nav .nav > li .sub-menu li:hover > a {
+  color: #e47c3f;
+}
+
+/*Featured cities*/
+.twm-featured-city .twm-media {
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.twm-featured-city .twm-media .twm-city-info .twm-city-jobs {
+  color: #e47c3f;
+}
+
+/* ---- categories style 3 ---- */
+.job-categories-3 .twm-media {
+  box-shadow: 0px 0px 15px rgba(220, 220, 220, 0.3);
+}
+.job-categories-3 .twm-media [class*=flaticon-] {
+  color: #e47c3f;
+}
+.job-categories-3 .twm-content .twm-jobs-available {
+  background-color: #e47c3f;
+}
+.job-categories-3:hover {
+  background-color: #e47c3f;
+}
+.job-categories-3:hover .twm-content .twm-jobs-available {
+  color: #e47c3f;
+}
+
+.site-bg-primary.twm-how-it-work-1-area {
+  background-color: #232323;
+}
+
+/*Featured jobs*/
+.twm-jobs-featured-style1 {
+  background-color: #e47c3f;
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.twm-jobs-featured-style1 .twm-media {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+.twm-jobs-featured-style1 .twm-mid-content .twm-job-title:hover h4 {
+  color: #e47c3f;
+}
+
+/* Home Page 5 Banner Section Css Start*/
+.twm-home5-banner-section .twm-banner-h5-r-b-info .twm-banner-h5-r-b-outline-text {
+  -webkit-text-stroke: 1px #e47c3f;
+}
+
+/*job Category Home 5*/
+.job-categories-home-5:after {
+  background-color: #e47c3f;
+}
+
+/*job style 5*/
+.twm-jobs-st5 {
+  box-shadow: 0px 0px 15px rgba(220, 220, 220, 0.3);
+}
+.twm-jobs-st5 .twm-jobs-amount {
+  color: #e47c3f;
+}
+.twm-jobs-st5 .twm-candi-thum-content .twm-pics .tot-view {
+  background-color: #e47c3f;
+}
+.twm-jobs-st5 .twm-job-duration ul li span i {
+  color: #e47c3f;
+}
+.twm-jobs-st5 .twm-jobs-category.outline a {
+  color: #e47c3f;
+  background-color: #fff2eb;
+}
+
+/* Home 5 Millions section*/
+.twm-millions-section-wrap > .row .twm-millions-1-section .twm-circle-jobs-box {
+  box-shadow: 0px 0px 20px rgba(220, 220, 220, 0.3);
+}
+.twm-millions-section-wrap > .row .twm-millions-1-section-right .twm-avail-jobs span {
+  color: #e47c3f;
+}
+
+/*Recruiters*/
+.twm-column-5 ul li .twm-recruiters5-box .twm-rec-jobs {
+  color: #e47c3f;
+  background-color: #fff2eb;
+}
+.twm-column-5 ul li .twm-recruiters5-box:after {
+  background-color: #e47c3f;
+}
+.twm-column-5 ul li .twm-recruiters5-box:hover {
+  box-shadow: 0px 0px 20px rgba(220, 220, 220, 0.3);
+}
+
+.twm-bg-section-box {
+  background-color: #e47c3f;
+}
+
+/* Theme default button */
+.site-button {
+  background-color: #e47c3f;
+}
+.site-button.white {
+  color: #e47c3f;
+  text-shadow: 0 0 0 #e47c3f, 400px 0 0 #e47c3f;
+}
+.site-button.white:hover {
+  color: #e47c3f;
+  text-shadow: -400px 0 0 #fff, 0 0 0 #fff;
+}
+.site-button.outline-primary {
+  border: 1px solid #e47c3f;
+  text-shadow: 0 0 0 #e47c3f, 400px 0 0 #e47c3f;
+}
+.site-button.secondry:hover {
+  color: #e47c3f;
+}
+
+/*Featured cities*/
+.twm-featured-city2 .twm-city-info .twm-city-jobs {
+  color: #e47c3f;
+}
+
+/*Blog style home-5*/
+.twm-blog-post-h5-outer .wt-post-info .post-author .post-author-pic .p-a-info a {
+  color: #e47c3f;
+}
+.twm-blog-post-h5-outer .wt-post-info .post-author .post-categories a {
+  color: #e47c3f;
+  background-color: #fff2eb;
+}
+
+/*Newsletter Subscriber section*/
+.twm-new-sub-section-wrap {
+  background-color: #232323;
+}
+.twm-new-sub-section-wrap .twm-sub-2-section {
+  background-color: #e47c3f;
+}
+
+/* Home Page 6 Banner Section Css Start */
+.twm-home-6-banner-section {
+  background-color: #fff;
+}
+.twm-home-6-banner-section:after {
+  background-color: #e47c3f;
+}
+.twm-home-6-banner-section > .container .row .twm-bnr-left-section .twm-bnr-title-small .bnr-title-bedge {
+  background-color: #e47c3f;
+}
+.twm-home-6-banner-section > .container .row .twm-bnr-left-section .twm-bnr-title-large span {
+  background-color: #e47c3f;
+}
+.twm-home-6-banner-section .twm-bnr-right-section .twm-bnr-right-content .bnr-bg-circle span {
+  box-shadow: 0px 0px 0px 70px rgba(220, 220, 220, 0.3);
+}
+.twm-home-6-banner-section .twm-bnr-right-section .bnr-bg-icons > div.bnr-block-2 .bnr-block-2-content {
+  box-shadow: 0px 0px 15px rgba(220, 220, 220, 0.3);
+}
+.twm-home-6-banner-section .twm-bnr-right-section .bnr-bg-icons > div.bnr-block-2 .bnr-block-2-content .bnr-block-2-content-top .title {
+  color: #e47c3f;
+}
+.twm-home-6-banner-section .twm-bnr-right-section .bnr-bg-icons > div.bnr-block-2 .bnr-block-2-content .bnr-block-2-content-bottom {
+  color: #002860;
+}
+.twm-home-6-banner-section .twm-bnr-right-section .bnr-bg-icons > div.bnr-block-3 {
+  box-shadow: 0px 0px 15px rgba(220, 220, 220, 0.3);
+}
+.twm-home-6-banner-section .twm-bnr-blocks {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+.twm-home-6-banner-section .twm-bnr-blocks-3 {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+
+/*Job category h-page 6*/
+.job-cat-block-hpage-6 {
+  background-color: #fff2eb;
+}
+.job-cat-block-hpage-6:after {
+  background-color: #e47c3f;
+}
+.job-cat-block-hpage-6 .twm-media:after {
+  background-color: #e47c3f;
+}
+.job-cat-block-hpage-6 .twm-content .twm-jobs-available span {
+  color: #e47c3f;
+}
+.job-cat-block-hpage-6:hover {
+  background-color: #e47c3f;
+}
+.job-cat-block-hpage-6:hover .twm-media [class*=flaticon-] {
+  color: #e47c3f;
+}
+.job-cat-block-hpage-6:hover .twm-media:after {
+  background-color: #fff2eb;
+}
+
+.circle-line-wrap .circle-line-btn {
+  border: 2px solid #e47c3f;
+  color: #e47c3f;
+}
+
+/*Get Jobs*/
+.h-page6-getjobs-wrap {
+  background-color: #fff2eb;
+}
+.h-page6-getjobs-wrap .h-page-6-client-slide-title:after {
+  background-color: #e47c3f;
+}
+.h-page6-getjobs-wrap .h-page6-client-slider:before {
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+  border-left: 4px solid #e47c3f;
+}
+.h-page6-getjobs-wrap:after {
+  background-color: #e47c3f;
+}
+.h-page6-getjobs-wrap .h-page-6-getjobs-left .twm-media-bg-circle {
+  background-color: #e47c3f;
+}
+.h-page6-getjobs-wrap .h-page-6-getjobs-left .twm-media-bg-circle2 {
+  width: 85%;
+  height: 85%;
+  border-radius: 50%;
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  transform: translate(-50%, -50%);
+  background-color: rgba(234, 241, 251, 0.4);
+}
+.h-page6-getjobs-wrap .h-page-6-getjobs-left .twm-media-bg-circle3 {
+  border: 1px solid #d3deee;
+}
+.h-page6-getjobs-wrap .h-page-6-getjobs-left .twm-media-bg-circle3 .ring1 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #232323;
+  right: 6%;
+  top: 20%;
+}
+
+/*Featured Jobs*/
+.twm-hpage-6-featured-bg-warp {
+  background-color: #fff2eb;
+}
+
+.hpage-6-featured-block .inner-content {
+  background-color: #fff2eb;
+}
+.hpage-6-featured-block .inner-content .top-content .job-time {
+  color: #e47c3f;
+}
+.hpage-6-featured-block .inner-content .top-content .job-post-time {
+  color: #232323;
+}
+.hpage-6-featured-block .inner-content .mid-content {
+  border-bottom: 1px solid #e1e1e1;
+}
+.hpage-6-featured-block .inner-content .bottom-content .job-payment span {
+  color: #e47c3f;
+}
+.hpage-6-featured-block .inner-content .aply-btn-area .aplybtn {
+  background-color: #e47c3f;
+}
+
+/* Counter h6 */
+.twm-company-approch6-outer .twm-company-approch6 .icon-media-wrap .icon-media:after {
+  background-color: #e47c3f;
+}
+
+/*Testimonial Vertical slider*/
+.twm-testimonial-v-area:before {
+  background-color: #fff2eb;
+}
+
+.v-testimonial-wrap:after {
+  background-color: #e47c3f;
+}
+
+.testimonials-v {
+  background-color: #fff2eb;
+}
+.testimonials-v .t-quote {
+  color: #e47c3f;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #e47c3f;
+}
+
+/*Blog post hpage 6*/
+.twm-blog-post-h-page6-wrap {
+  background-color: #fff2eb;
+}
+
+.twm-blog-post-h-page6 .wt-post-info .wt-post-title .post-title:hover {
+  color: #e47c3f;
+}
+.twm-blog-post-h-page6.with-content .wt-post-info {
+  background-color: #fff2eb;
+}
+.twm-blog-post-h-page6.with-content .post-author .post-author-pic .p-a-info a {
+  color: #e47c3f;
+}
+
+/*Get in touch*/
+.twm-hpage-6-getintouch {
+  background-color: #232323;
+  border-right: 9px solid #e47c3f;
+}
+.twm-hpage-6-getintouch .twm-hpage-6-getintouch-title .wt-title span {
+  color: #e47c3f;
+}
+.twm-hpage-6-getintouch .twm-hpage-6-callus .callus-icon {
+  box-shadow: 0px 0px 0px 14px rgba(220, 220, 220, 0.3);
+}
+.twm-hpage-6-getintouch .twm-hpage-6-callus .callus-content .callus-email {
+  color: #e47c3f;
+}
+.twm-hpage-6-getintouch .callus-bg-box {
+  background-color: rgba(220, 220, 220, 0.3);
+}
+.twm-hpage-6-getintouch .callus-bg-box .callus-bg-box-shadow {
+  background-color: rgba(220, 220, 220, 0.3);
+}
+
+.twm-hpage-6-subscribe-wrap .twm-hpage-6-subscribe {
+  background-color: #fff2eb;
+}
+.twm-hpage-6-subscribe-wrap .twm-hpage-6-subscribe:after {
+  background-color: rgba(220, 220, 220, 0.3);
+}
+.twm-hpage-6-subscribe-wrap .twm-hpage-6-subscribe .twm-sub-title {
+  color: #e47c3f;
+}
+.twm-hpage-6-subscribe-wrap .twm-hpage-6-subscribe .twm-sub-discription {
+  color: #232323;
+}
+.twm-hpage-6-subscribe-wrap .twm-hpage-6-subscribe .hpage-6-nw-form {
+  background-color: #e47c3f;
+}
+
+/* ---- Home Page 3 Banner Section Css Start ---- */
+.twm-home7-banner-section .twm-bnr-bottom-section .twm-browse-jobs {
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1px;
+  color: #fff2eb;
+}
+
+.job-categories-home-7 .twm-media {
+  background-color: #e47c3f;
+}
+.job-categories-home-7 .twm-content .twm-jobs-available {
+  color: #e47c3f;
+}
+.job-categories-home-7:hover {
+  background-color: #e47c3f;
+}
+.job-categories-home-7:hover .twm-media [class*=flaticon-] {
+  color: #e47c3f;
+}
+
+/*Recommended Jobs*/
+.twm-recommended-Jobs-mid:after {
+  background-color: #fff2eb;
+}
+
+.hpage-7-featured-block {
+  border: 1px solid #eaf1fb;
+}
+.hpage-7-featured-block .inner-content .top-content-wrap {
+  background-color: #f0f0f0;
+}
+.hpage-7-featured-block .inner-content .top-content-wrap .top-content .job-time {
+  color: #e47c3f;
+}
+.hpage-7-featured-block .inner-content .bottom-content .job-payment span {
+  color: #e47c3f;
+}
+.hpage-7-featured-block .inner-content .aply-btn-area .aplybtn {
+  background-color: #e47c3f;
+}
+
+.twm-jobs-filter ul li {
+  color: #e47c3f;
+}
+.twm-jobs-filter ul li.btn-filter.btn-active:after {
+  background-color: #e47c3f;
+}
+
+.twm-profile-card .site-button-link {
+  color: #e47c3f;
+}
+
+/*Steps*/
+.twm-w-process-steps-h-page-7 {
+  background-color: #232323;
+}
+.twm-w-process-steps-h-page-7 p {
+  color: #fff2eb;
+}
+
+/*Candidate grid*/
+.twm-candidates-grid-h-page7 .twm-candidates-tag span {
+  color: #e47c3f;
+  background-color: #fff2eb;
+}
+.twm-candidates-grid-h-page7 .twm-fot-content {
+  background-color: #fff2eb;
+}
+.twm-candidates-grid-h-page7 .twm-fot-content .twm-jobs-vacancies span {
+  color: #e47c3f;
+}
+
+.twm-companies-wrap-bg-block {
+  background-color: #232323;
+}
+
+.twm-companies-wrap-h-page-7 .twm-companies-h-page-7 {
+  background-color: #fff2eb;
+}
+
+/*----------------------------
+	Home Page 3 Css
+------------------------------*/
+/*Blog post 3*/
+.twm-blog-post-3-outer .wt-post-info .wt-post-meta ul {
+  list-style: none;
+  margin-bottom: 0px;
+}
+.twm-blog-post-3-outer .wt-post-info .wt-post-meta ul li.post-author a {
+  color: #e47c3f;
+}
+
+/*Testimonial home 7*/
+.twm-testimonial-page7-wrap {
+  background-color: #fff2eb;
+}
+.twm-testimonial-page7-wrap:after {
+  background-color: #e47c3f;
+}
+
+/*--Testimonial thumb slider--*/
+.testimonial-thumb-1-wrap .testimonial-thumb-1 .t-testimonial-top .t-quote {
+  color: #e47c3f;
+}
+
+/* ---- Home Page 8 Banner Section Css Start ---- */
+.twm-home8-banner-section .twm-home8-inner-section .twm-bnr-left-section .twm-bnr-discription {
+  color: #e47c3f;
+}
+.twm-home8-banner-section .twm-bnr-bottom-section .twm-browse-jobs {
+  text-shadow: #fff2eb 0px -15px;
+}
+
+.job-categories-home-8 {
+  background-color: #fff2eb;
+}
+.job-categories-home-8 .twm-media {
+  background-color: #e47c3f;
+}
+.job-categories-home-8 .twm-content .twm-jobs-available {
+  color: #e47c3f;
+}
+.job-categories-home-8:hover {
+  background-color: #e47c3f;
+}
+.job-categories-home-8:hover .twm-jobs-available {
+  color: #fff;
+}
+.job-categories-home-8:hover .twm-media [class*=flaticon-] {
+  color: #e47c3f;
+}
+
+/*------------------------------------------------------------------------
+	Home Page 8
+-------------------------------------------------------------------------*/
+.twm-companies-wrap-bg-block2 {
+  background-color: #232323;
+}
+
+/*Testimonial home 8*/
+.twm-testimonial-page8-wrap {
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.twm-testimonial-page8-section > .row .twm-testimonial-page8-left .twm-media:before {
+  background-color: #e47c3f;
+}
+
+/*tabs*/
+.twm-tabs-style-1 .nav-tabs .nav-item .nav-link {
+  background-color: #3a2908 !important;
+  color: #e47c3f;
+}
+.twm-tabs-style-1 .nav-tabs .nav-item .nav-link.active {
+  background-color: #e47c3f !important;
+}
+
+/*Home page 9 banner*/
+.twm-home-9-banner-section .row .twm-bnr-left-section:before {
+  background-color: #e47c3f;
+}
+.twm-home-9-banner-section .twm-bnr-popular-search a:hover {
+  color: #e47c3f;
+}
+
+/*FOR EMPLOYEE START*/
+.twm-explore-9-media-wrap .twm-media .rectangle1-wrap .rectangle1 {
+  background-color: #e47c3f;
+}
+
+.twm-jobs-list-style1 .twm-media {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+
+/*--------------------------------------------------------------
+Home page 11 banner
+--------------------------------------------------------------*/
+/*Banner home 11*/
+.twm-home-11-banner-section .row .twm-bnr-left-section:after {
+  border-color: #232323;
+  border-right: 0px;
+}
+.twm-home-11-banner-section .row .twm-bnr-left-section:before {
+  background-color: #232323;
+}
+.twm-home-11-banner-section .row .twm-bnr-left-section .twm-bnr-title-large {
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1px #232323;
+}
+.twm-home-11-banner-section .row .twm-bnr-left-section .twm-bnr-title-large span {
+  text-decoration: none;
+  -webkit-text-fill-color: #e47c3f;
+}
+.twm-home-11-banner-section .row .twm-bnr-left-section .twm-bnr-discription {
+  color: #232323;
+}
+.twm-home-11-banner-section .row .twm-bnr-5-blocks {
+  position: relative;
+}
+.twm-home-11-banner-section .row .twm-bnr-5-blocks .twm-title {
+  color: #232323;
+}
+.twm-home-11-banner-section .twm-bnr-popular-search {
+  color: #232323;
+}
+.twm-home-11-banner-section .twm-bnr-popular-search .twm-title {
+  color: #232323;
+}
+.twm-home-11-banner-section .twm-bnr-popular-search a {
+  color: #232323;
+}
+.twm-home-11-banner-section .twm-bnr-popular-search a:hover {
+  color: #e47c3f;
+}
+
+.footer-dark {
+  background-color: #232323;
+}
+.footer-dark .ftr-nw-content .ftr-nw-form .ftr-nw-subcribe-btn {
+  background-color: #e47c3f;
+}
+.footer-dark .ftr-nw-content .form-control {
+  background-color: #fff;
+}
+.footer-dark .widget-title {
+  color: #e47c3f;
+}
+.footer-dark .widget-title:before {
+  background-color: #e47c3f;
+}
+.footer-dark .social-icons {
+  margin: 0px;
+}
+.footer-dark .social-icons li a {
+  color: #e47c3f;
+}
+.footer-dark .social-icons li a:hover {
+  color: #fff;
+}
+.footer-dark .widget_services ul li a:hover {
+  color: #e47c3f;
+}
+
+.twm-candidates-list-style1 .twm-media .twm-candidates-tag span {
+  color: #232323;
+  background-color: #f9f9f9;
+}
+.twm-candidates-list-style1 .twm-fot-content .twm-jobs-vacancies {
+  color: #232323;
+}
+.twm-candidates-list-style1 .twm-fot-content .twm-jobs-vacancies span {
+  color: #046c38;
+}
+
+/*Banner home 13*/
+.twm-home3-banner-section.twm-bnr-hpage-13 .twm-home3-inner-section .twm-bnr-mid-section .twm-bnr-title-large {
+  color: #e47c3f;
+}
+.twm-home3-banner-section.twm-bnr-hpage-13 .twm-home3-inner-section .twm-bnr-mid-section .twm-bnr-title-light {
+  color: #232323;
+}
+.twm-home3-banner-section.twm-bnr-hpage-13 .twm-home3-inner-section .twm-bnr-mid-section .twm-bnr-discription {
+  color: #232323;
+}
+.twm-home3-banner-section.twm-bnr-hpage-13 .twm-home3-inner-section .twm-bnr-mid-section .twm-bnr-popular-search .twm-title {
+  color: #232323;
+}
+.twm-home3-banner-section.twm-bnr-hpage-13 .twm-home3-inner-section .twm-bnr-mid-section .twm-bnr-popular-search a {
+  color: #232323;
+}
+.twm-home3-banner-section.twm-bnr-hpage-13 .twm-hpage-12-v-bnr-left-content:before {
+  background-color: #e47c3f;
+}
+
+.v-hpage-13-bnr-wrap .v-easy-ticker .v-easy-ticker-content .v-jobs-list {
+  border-color: #e47c3f;
+}
+
+.twm-about-1-bottom-wrap .twm-card-blocks {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+.twm-about-1-bottom-wrap .twm-card-blocks .twm-icon {
+  background-color: #e47c3f;
+}
+
+/*Search*/
+#search form {
+  color: #e47c3f;
+}
+#search .search-btn i {
+  color: #e47c3f;
+}
+#search .close {
+  background-color: #e47c3f;
+}
+
+.header-style-3.h-page-11-hdr .main-bar {
+  max-width: 1800px;
+}
+.header-style-3.h-page-11-hdr .header-nav-btn-section .twm-nav-btn-right .twm-nav-post-a-job {
+  background-color: #232323;
+}
+.header-style-3.h-page-11-hdr .header-nav-btn-section .twm-nav-btn-left .twm-nav-sign-up {
+  color: #fff;
+  background-color: #e47c3f;
+}
+.header-style-3.h-page-11-hdr .header-search a.header-search-icon {
+  color: #232323;
+}
+.header-style-3.h-page-11-hdr .navbar-toggler .icon-bar {
+  background: #232323;
+}
+.header-style-3.h-page-11-hdr .header-nav .nav li a {
+  color: #232323;
+}
+.header-style-3.h-page-11-hdr .header-nav .nav > li:hover > a {
+  color: #e47c3f;
+}
+.header-style-3.h-page-11-hdr .header-nav .nav > li .sub-menu li:hover > a {
+  color: #e47c3f;
+}
+
+.header-style-3.h-page-12-hdr.hdr-hpage-12 .is-fixed .main-bar.color-fill {
+  background-color: #e47c3f;
+}
+.header-style-3.h-page-12-hdr .main-bar {
+  max-width: 1800px;
+}
+.header-style-3.h-page-12-hdr .header-nav-btn-section .twm-nav-btn-right .twm-nav-post-a-job {
+  background-color: #232323;
+}
+.header-style-3.h-page-12-hdr .header-nav-btn-section .twm-nav-btn-left .twm-nav-sign-up {
+  color: #232323;
+  background-color: #f7f7f7;
+}
+.header-style-3.h-page-12-hdr .header-search a.header-search-icon {
+  color: #fff;
+}
+.header-style-3.h-page-12-hdr .navbar-toggler .icon-bar {
+  background: #232323;
+}
+.header-style-3.h-page-12-hdr .header-nav .nav li a {
+  color: #232323;
+}
+.header-style-3.h-page-12-hdr .header-nav .nav > li:hover > a {
+  color: #232323;
+}
+.header-style-3.h-page-12-hdr .header-nav .nav > li .sub-menu li:hover > a {
+  color: #e47c3f;
+}
+
+.twm-about-1-bottom-wrap .twm-card-blocks-2 {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+
+.header-style-3.h-page-13-hdr {
+  background-color: #f7f7f7;
+}
+
+/*Banner home 11*/
+.header-style-3.h-page-14-hdr .is-fixed .main-bar.color-fill {
+  background-color: #fff;
+}
+.header-style-3.h-page-14-hdr .main-bar {
+  max-width: 1800px;
+}
+.header-style-3.h-page-14-hdr .header-nav-btn-section .twm-nav-btn-right .twm-nav-post-a-job {
+  background-color: #e47c3f;
+  color: #fff;
+}
+.header-style-3.h-page-14-hdr .header-nav-btn-section .twm-nav-btn-left .twm-nav-sign-up {
+  color: #e47c3f;
+  background-color: #3a2908;
+}
+.header-style-3.h-page-14-hdr .header-search a.header-search-icon {
+  color: #cfcfcf;
+}
+.header-style-3.h-page-14-hdr .navbar-toggler .icon-bar {
+  background: #232323;
+}
+.header-style-3.h-page-14-hdr .header-nav .nav li a {
+  color: #232323;
+}
+.header-style-3.h-page-14-hdr .header-nav .nav > li:hover > a {
+  color: #232323;
+}
+.header-style-3.h-page-14-hdr .header-nav .nav > li .sub-menu li:hover > a {
+  color: #e47c3f;
+}
+
+.is-fixed .main-bar.color-fill .vnav-btn {
+  color: #232323;
+}
+.is-fixed .main-bar.color-fill .vnav-btn:hover {
+  color: #e47c3f;
+}
+
+/*Side bar navigation-------------------------*/
+.vnav-btn:hover {
+  color: #e47c3f;
+}
+
+.twm-side-navigation-menu .nav > li > a:hover {
+  color: #e47c3f;
+}
+.twm-side-navigation-menu .nav > li:hover > a {
+  color: #e47c3f;
+}
+.twm-side-navigation-menu .nav > li .sub-menu li:hover > a {
+  color: #e47c3f;
+}
+.twm-side-navigation-menu .nav > li .sub-menu li.has-child.nav-active > a {
+  color: #e47c3f;
+}
+
+/*Side bar Advertisement*/
+.twm-advertisment .overlay {
+  background-color: #e47c3f;
+}
+
+/*Side bar tags*/
+.tw-sidebar-tags-wrap .tagcloud a {
+  background-color: #fff2eb;
+  color: #e47c3f;
+}
+.tw-sidebar-tags-wrap .tagcloud a:hover {
+  background-color: #e47c3f;
+  color: #232323;
+}
+
+.widget .section-head-small {
+  border-left: 3px solid #e47c3f;
+}
+
+.form-check-input:checked {
+  background-color: #e47c3f;
+  border-color: #fff2eb;
+}
+
+.form-check-input:checked[type=radio]:after {
+  background-color: #e47c3f;
+}
+
+/*Side Bar Elements*/
+.twm-sidebar-ele-filter ul li .twm-job-type-count {
+  color: #e47c3f;
+}
+
+/*Pagination Style*/
+.pagination-outer .pagination-style1 ul li.prev a {
+  color: #232323;
+}
+.pagination-outer .pagination-style1 ul li.next a {
+  color: #232323;
+}
+.pagination-outer .pagination-style1 ul li.active a {
+  background-color: #e47c3f;
+  color: #fff;
+}
+.pagination-outer .pagination-style1 ul li:hover a {
+  background-color: #e47c3f;
+}
+
+/*Blog Side Bar*/
+.side-bar .widget .widget-title:before {
+  background-color: #e47c3f;
+}
+.side-bar .search-bx .input-group .btn {
+  background-color: #fff;
+}
+.side-bar .widget_services ul li:after {
+  background-color: #e47c3f;
+}
+.side-bar .widget_services ul li a:hover {
+  color: #e47c3f;
+}
+.side-bar .recent-posts-entry .wt-post-info .post-date {
+  color: #e47c3f;
+}
+
+.wt-select-bar-2 .btn-light {
+  background-color: #fff2eb !important;
+}
+
+/*Breadcrumb*/
+.wt-breadcrumb li {
+  color: #e47c3f;
+}
+.wt-breadcrumb li a:hover {
+  color: #e47c3f;
+}
+.wt-breadcrumb li:last-child {
+  color: #e47c3f;
+}
+
+.form-control {
+  background-color: #fff2eb;
+}
+
+.dropdown.bootstrap-select.wt-select-box .btn-light {
+  background-color: #fff2eb;
+  border-color: #fff2eb;
+}
+
+.ls-inputicon-box .fs-input-icon {
+  color: #e47c3f;
+}
+
+/* Product Detail Page Slider */
+.twm-radius-range b {
+  color: #e47c3f;
+}
+.twm-radius-range .slider.slider-horizontal .slider-track {
+  background-color: #e47c3f;
+}
+.twm-radius-range .slider.slider-horizontal .slider-handle {
+  background-color: #232323;
+}
+
+/*Header Full Css Start*/
+.header-full-width .header-nav-btn-section .twm-nav-btn-left .twm-nav-sign-up {
+  background-color: #fff2eb;
+  color: #e47c3f;
+}
+.header-full-width .header-nav-btn-section .twm-nav-btn-left .twm-nav-sign-up:before {
+  background-color: #e47c3f;
+}
+.header-full-width .header-nav-btn-section .twm-nav-btn-right .twm-nav-post-a-job {
+  background-color: #e47c3f;
+  color: #fff2eb;
+}
+.header-full-width .header-nav-btn-section .twm-nav-btn-right .twm-nav-post-a-job:before {
+  background-color: #232323;
+}
+.header-full-width .header-search a.header-search-icon {
+  color: #e47c3f;
+}
+.header-full-width .main-bar {
+  /*--main-bar--*/
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.header-full-width .navbar-toggler .icon-bar {
+  background: #e47c3f;
+}
+.header-full-width .header-nav .nav > li > a:hover {
+  color: #e47c3f;
+}
+.header-full-width .header-nav .nav > li:hover > a {
+  color: #e47c3f;
+}
+.header-full-width .header-nav .nav > li .sub-menu li:hover > a {
+  color: #e47c3f;
+}
+.header-full-width .header-nav .nav > li .sub-menu li.has-child.nav-active > a {
+  color: #e47c3f;
+}
+
+/* Map Cluster*/
+.cluster0:before {
+  border: 7px solid #e47c3f;
+}
+
+.marker-arrow {
+  border-color: #e47c3f transparent transparent;
+}
+
+.face i {
+  color: #e47c3f;
+}
+.face.front {
+  background-color: #e47c3f;
+}
+.face.back {
+  background: #e47c3f;
+  border-color: #e47c3f;
+}
+
+.custom-zoom-in,
+.custom-zoom-out {
+  background-color: #e47c3f;
+}
+
+.map-box .listing-img-container {
+  background-color: #fff2eb;
+}
+
+.map-box-icon {
+  background-color: #e47c3f;
+}
+
+/*Description list*/
+.description-list-2 li i {
+  color: #e47c3f;
+}
+
+/*Gallery*/
+.tw-sidebar-gallery ul li .tw-service-gallery-thumb:after {
+  border: 2px solid #e47c3f;
+}
+
+.tw-sidebar-gallery-2 .row [class*=col-] {
+  margin-bottom: 30px;
+}
+.tw-sidebar-gallery-2 .row [class*=col-] .tw-service-gallery-thumb:after {
+  border: 2px solid #e47c3f;
+}
+
+/*Sidebar  Info 2*/
+.twm-job-hilites li i {
+  color: #e47c3f;
+}
+
+.twm-s-info2 .twm-job-hilites2 li .twm-s-info-inner i {
+  color: #e47c3f;
+}
+
+/*Sidebar Info*/
+.twm-s-info3 {
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.twm-s-info3 .twm-s-info-logo-section .twm-media {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+.twm-s-info3 ul li .twm-s-info-inner i {
+  color: #e47c3f;
+}
+
+.twm-job-detail-2-wrap {
+  background-color: #fff2eb;
+}
+
+.twm-jobs-grid-style2:after {
+  background-color: #e47c3f;
+}
+.twm-jobs-grid-style2:before {
+  background-color: #e47c3f;
+}
+
+.dropzone {
+  background: #fff2eb;
+}
+
+/*Employer grid*/
+.twm-employer-grid-style1 {
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.twm-employer-grid-style1 .twm-media {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+
+.twm-employer-list-style1 {
+  box-shadow: none;
+}
+.twm-employer-list-style1 .twm-media {
+  box-shadow: 0px 0px 40px rgba(220, 220, 220, 0.3);
+}
+
+/*Sidebar Info*/
+.twm-s-info {
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.twm-s-info ul li .twm-s-info-inner i {
+  color: #e47c3f;
+}
+
+/*Sidebar-contact*/
+.twm-s-contact {
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.twm-s-contact .form-control {
+  background-color: #fff2eb;
+}
+
+/*Side Map*/
+.twm-s-map-iframe {
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+
+.twm-s-info-3 ul li .twm-s-info-inner i {
+  color: #e47c3f;
+  border: 1px solid #e47c3f;
+}
+
+/*Candidate pages start------------------------------------------------------------*/
+.side-bar-st-1 {
+  background: #fff2eb;
+}
+
+/*Navigation list*/
+.twm-nav-list-1 ul li a > i {
+  color: #e47c3f;
+}
+.twm-nav-list-1 ul > li > a:hover {
+  color: #e47c3f;
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.twm-nav-list-1 ul > li.active > a {
+  color: #e47c3f;
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+
+/*Candidate grid*/
+.twm-candidates-grid-style1 .twm-media .twm-candidates-tag span {
+  color: #e47c3f;
+  background-color: #fff2eb;
+}
+.twm-candidates-grid-style1 .twm-fot-content {
+  background-color: #fff2eb;
+}
+
+/* Data Table Candidets */
+.twm-bookmark-list-wrap .twm-bookmark-list .twm-job-title h4 {
+  color: #e47c3f;
+}
+
+.twm-D_table div.dataTables_wrapper div.dataTables_length select {
+  background-color: #fff2eb;
+}
+.twm-D_table .page-item.active .page-link {
+  background-color: #e47c3f;
+}
+.twm-D_table .page-link {
+  color: #e47c3f;
+}
+.twm-D_table .page-item.active .page-link {
+  z-index: 3;
+  color: #fff;
+  background-color: #e47c3f;
+  border-color: #e47c3f;
+}
+
+/*Faq*/
+.tw-faq-section .tw-faq .accordion-item {
+  background-color: #fff2eb;
+}
+.tw-faq-section .tw-faq .accordion-item .accordion-button:not(.collapsed) {
+  background-color: #fff2eb;
+}
+
+/*Contact Form*/
+.twm-contact-one .contact-one-inner:after {
+  background-color: #fff2eb;
+}
+.twm-contact-one .contact-info-wrap .contact-info {
+  box-shadow: 0px 0px 25px rgba(220, 220, 220, 0.3);
+}
+.twm-contact-one .contact-info-section .c-info-column .c-info-icon {
+  background-color: #fff2eb;
+  color: #e47c3f;
+}
+.twm-contact-one .section-head-small.white .wt-title {
+  color: #fff;
+}
+
+.cons-contact-form .form-control {
+  background-color: #fff2eb;
+}
+
+.form-control {
+  background-color: #fff2eb;
+}
+
+/* under Maintenance*/
+.twm-u-maintenance-wrap .row .twm-u-maintenance-content .social-icons {
+  margin: 0px;
+}
+.twm-u-maintenance-wrap .row .twm-u-maintenance-content .social-icons li a {
+  color: #e47c3f;
+}
+
+/* Coming soon*/
+.twm-c-soon-wrap .row .twm-c-soon-content .social-icons li a {
+  color: #e47c3f;
+}
+.twm-c-soon-wrap .cs-nw-form .form-control {
+  background-color: #fff;
+}
+.twm-c-soon-wrap .cs-nw-form .cs-subcribe-btn {
+  background-color: #e47c3f;
+}
+
+/*tabs*/
+.twm-tabs-style-2 .nav-tabs .nav-item .nav-link {
+  border: 1px solid #e47c3f;
+  color: #e47c3f;
+}
+.twm-tabs-style-2 .nav-tabs .nav-item .nav-link.active {
+  background-color: #e47c3f !important;
+}
+
+/*iconfont*/
+.icon-font-block {
+  background-color: #fff2eb;
+}
+.icon-font-block [class*=flaticon-] {
+  color: #e47c3f;
+}
+
+.twm-timing-list .twm-time-list-title {
+  color: #e47c3f;
+}
+.twm-timing-list .twm-time-list-title:before {
+  border: 3px solid #fff2eb;
+  background-color: #e47c3f;
+}
+.twm-timing-list .twm-time-list-title:after {
+  background-color: #e47c3f;
+}
+
+/*Posts Author*/
+.twm-posts-author .twm-post-author-content span {
+  color: #e47c3f;
+}
+
+/*Single Post Navigation*/
+.post-navigation .post-nav-links .post-nav-item .nav-post-arrow i {
+  color: #e47c3f;
+}
+
+/*Comment area*/
+.comments-area .comment-form .comment-form-author input[type=text],
+.comments-area .comment-form .comment-form-email input[type=text],
+.comments-area .comment-form .comment-form-comment input[type=text] {
+  background-color: #fff2eb;
+}
+.comments-area .comment-form .comment-form-comment textarea {
+  background-color: #fff2eb;
+}
+
+/*Comment list section*/
+ol.comment-list li.comment .reply .comment-reply-link {
+  color: #e47c3f;
+}
+
+/*Services*/
+.all_services ul li a:hover {
+  color: #e47c3f;
+}
+
+/*default table*/
+.twm-table tbody tr td button .fa {
+  background-color: #fff2eb;
+  color: #e47c3f;
+}
+.twm-table tbody tr td button:hover .fa {
+  background-color: #e47c3f;
+}
+
+.twm-table tbody tr td a .fa {
+  background-color: #fff2eb;
+  color: #e47c3f;
+}
+.twm-table tbody tr td a:hover .fa {
+  background-color: #e47c3f;
+}
+
+.twm-cv-manager-list-style1 .twm-candidates-tag span {
+  color: #e47c3f;
+}
+.twm-cv-manager-list-style1 .twm-fot-content .twm-view-button a .fa {
+  background-color: #fff2eb;
+  color: #e47c3f;
+}
+
+.twm-table-controls .twm-DT-controls-icon li a {
+  background-color: #fff2eb;
+  color: #e47c3f;
+}
+.twm-table-controls .twm-DT-controls-icon li a:hover {
+  background-color: #e47c3f;
+  color: #fff;
+}
+.twm-table-controls .twm-DT-controls-icon li button {
+  background-color: #fff2eb;
+  color: #e47c3f;
+}
+.twm-table-controls .twm-DT-controls-icon li button:hover {
+  background-color: #e47c3f;
+}
+
+/*Msg style 2*/
+.wt-admin-dashboard-msg-2 .wt-dashboard-msg-search .btn {
+  color: #e47c3f;
+}
+.wt-admin-dashboard-msg-2 .wt-dashboard-msg-search-list-wrap:hover .msg-user-info {
+  background-color: #fff2eb;
+}
+.wt-admin-dashboard-msg-2 .msg-user-name {
+  color: #e47c3f;
+}
+.wt-admin-dashboard-msg-2 .single-user-com-text {
+  overflow: hidden;
+  background-color: #fff2eb;
+}
+.wt-admin-dashboard-msg-2 .single-msg-reply-comment .btn {
+  color: #e47c3f;
+}
+.wt-admin-dashboard-msg-2 .user-msg-list-btn-outer .user-msg-list-btn-open {
+  background-color: #e47c3f;
+}
+.wt-admin-dashboard-msg-2 .user-msg-list-btn-outer .user-msg-list-btn-close {
+  background-color: #e47c3f;
+}
+
+/* Data Table Candidets */
+.twm-candidate-save-job-list-wrap .twm-candidate-save-job-list .twm-job-title h4 {
+  color: #e47c3f;
+}
+
+/*saved jobs view popup*/
+.twm-saved-jobs-view .modal-content {
+  border-top: 6px solid #e47c3f;
+}
+.twm-saved-jobs-view .modal-footer {
+  background-color: #fff2eb;
+}
+
+/*Dashboard candidates style*/
+.twm-dashboard-candidates-wrap .twm-dash-candidates-list .twm-controls-icon li button {
+  background-color: #fff2eb;
+  color: #e47c3f;
+}
+.twm-dashboard-candidates-wrap .twm-dash-candidates-list .twm-controls-icon li button:hover {
+  background-color: #e47c3f;
+  color: #fff;
+}
+
+.dashboard-message-area h5 span {
+  color: #e47c3f;
+}
+.dashboard-message-area .dropdown-toggle {
+  color: #e47c3f;
+}
+
+/*Candidate detail v2*/
+.twm-candi-self-wrap-2 .twm-candi-self-info-2 {
+  box-shadow: 0px 0px 15px rgba(220, 220, 220, 0.3);
+}
+.twm-candi-self-wrap-2 .twm-candi-self-info-2:after {
+  background-color: #e47c3f;
+}
+.twm-candi-self-wrap-2 .twm-candi-self-info-2:before {
+  background-color: #e47c3f;
+}
+.twm-candi-self-wrap-2 .twm-candi-self-info-2 .twm-candi-self-top .twm-media {
+  box-shadow: 5px 5px 0px #fff2eb;
+}
+
+.twm-s-info-4 .row .twm-s-info-inner {
+  background-color: #fff2eb;
+}
+.twm-s-info-4 .row .twm-s-info-inner i {
+  border: 1px solid #e47c3f;
+  color: #e47c3f;
+}
+
+.twm-log-reg-media-wrap {
+  background-color: #fff2eb;
+}
+
+/*Search Bar*/
+.twm-bnr-search-bar .form-select,
+.twm-bnr-search-bar .form-control {
+  font-size: 14px;
+  height: 34px;
+  padding: 0px;
+  font-weight: 500;
+  border: none;
+  background-color: #fff;
+}
+
+.twm-table tr td.text-primary {
+  color: #e47c3f !important;
+}
+
+/*My Account css*/
+#sidebar-admin-wraper {
+  background: #fff2eb;
+}
+
+.wt-admin-right-page-header .breadcrumbs span {
+  color: #e47c3f;
+}
+
+/*Admin Nav*/
+.admin-nav ul li .sub-menu > li a {
+  color: #e47c3f;
+}
+.admin-nav ul > li > a:hover {
+  color: #e47c3f;
+}
+.admin-nav ul > li.active > a {
+  color: #e47c3f;
+}
+
+.twm-msg-noti {
+  background-color: #e47c3f;
+}
+
+.listing-user ul li a i {
+  color: #e47c3f;
+}
+.listing-user ul li a:hover {
+  color: #e47c3f;
+}
+.listing-user .user-name:before {
+  color: #e47c3f;
+}
+
+/*Dashboard Message*/
+.jobzilla-admin-messange {
+  color: #999;
+  font-size: 18px;
+  width: 40px;
+  height: 40px;
+  line-height: 36px;
+  text-align: center;
+  position: relative;
+  top: 10px;
+}
+.jobzilla-admin-messange.dropdown-toggle:after {
+  display: none;
+}
+.jobzilla-admin-messange span {
+  position: absolute;
+  top: -15px;
+  right: -12px;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+  border-radius: 100%;
+  background-color: #e47c3f;
+}
+
+/*Dashboard Notification*/
+.jobzilla-admin-notification span {
+  background-color: #e47c3f;
+}
+
+/*Dashboard Widget*/
+.dashboard-widgets-header {
+  color: #e47c3f;
+}
+
+.noti-view-all a {
+  color: #e47c3f;
+}
+
+.message-view-all a {
+  color: #e47c3f;
+}
+
+/*Message list*/
+.message-list ul li .msg-texting .msg-time {
+  color: #e47c3f;
+}
+
+/* Data Table Candidets */
+.twm-DT-candidates-list .twm-job-title h4 {
+  color: #e47c3f;
+}
+
+.add_field_youtube,
+.add_field_vimeo,
+.add_field_custom {
+  color: #e47c3f;
+}
+
+/* Model Popup */
+.twm-model-popup .modal-content {
+  border-top: 6px solid #e47c3f;
+}
+.twm-model-popup .modal-content .modal-footer {
+  background-color: #fff2eb;
+}
+
+.twm-sign-up .modal-content {
+  border-top: 6px solid #e47c3f;
+}
+
+/* Home Page 15 Banner Section Css Start */
+.twm-home1-banner-section.twm-bnr-hpage-15 > .row .twm-bnr-left-section .twm-bnr-title-large {
+  color: #232323;
+}
+
+.twm-bnr-hpage-15:before {
+  background-color: #e47c3f;
+}
+.twm-bnr-hpage-15:after {
+  background-color: #fff2eb;
+}
+
+.twm-bnr-15-carousal::before {
+  background-color: #fff2eb;
+}
+
+/*Home Page 15 Start*/
+.header-style-3.h-page-15-hdr.hdr-hpage-12 .is-fixed .main-bar.color-fill {
+  background-color: #e47c3f;
+}
+.header-style-3.h-page-15-hdr .main-bar {
+  max-width: 1800px;
+}
+.header-style-3.h-page-15-hdr .header-nav-btn-section .twm-nav-btn-right .twm-nav-post-a-job {
+  background-color: #e47c3f;
+}
+.header-style-3.h-page-15-hdr .header-nav-btn-section .twm-nav-btn-left .twm-nav-sign-up {
+  color: #fff;
+  background-color: #232323;
+}
+.header-style-3.h-page-15-hdr .header-search a.header-search-icon {
+  color: #232323;
+}
+.header-style-3.h-page-15-hdr .navbar-toggler .icon-bar {
+  background: #232323;
+}
+.header-style-3.h-page-15-hdr .header-nav .nav li a {
+  color: #232323;
+}
+.header-style-3.h-page-15-hdr .header-nav .nav > li:hover > a {
+  color: #232323;
+}
+.header-style-3.h-page-15-hdr .header-nav .nav > li .sub-menu li:hover > a {
+  color: #e47c3f;
+}
+
+.header-style-3.h-page-15-hdr .is-fixed .main-bar.color-fill .logo-header {
+  background-color: #e47c3f;
+}
+
+/*------------------------------------------------------------------
+	Home Page 16
+------------------------------------------------------------------*/
+/* Home Page 16 Banner Section Css Start*/
+.twm-home16-banner-section .row .twm-bnr-left-section .twm-bnr-title-small {
+  color: #232323;
+}
+.twm-home16-banner-section .row .twm-bnr-left-section .twm-bnr-title-large {
+  color: #232323;
+}
+.twm-home16-banner-section .row .twm-h-page-16-bnr-right-section:before {
+  background-color: #e47c3f;
+}
+.twm-home16-banner-section .row .twm-h-page-16-bnr-right-section .twm-bnr-blocks-position-1:after {
+  background-color: #e47c3f;
+}
+.twm-home16-banner-section .row .twm-h-page-16-bnr-right-section .twm-bnr-blocks-position-2:before {
+  background-color: #e47c3f;
+}
+.twm-home16-banner-section .row .twm-h-page-16-bnr-right-section .twm-bnr-blocks-position-3:before {
+  background-color: #e47c3f;
+}
+.twm-home16-banner-section .twm-img-bg-circle-area .twm-img-bg-circle1 span {
+  background-color: #e47c3f;
+}
+.twm-home16-banner-section .twm-img-bg-circle-area .twm-img-bg-circle2 span {
+  background-color: #e47c3f;
+  opacity: 0.4;
+}
+.twm-home16-banner-section .twm-img-bg-circle-area .twm-img-bg-circle3 span {
+  background-color: #e47c3f;
+  opacity: 0.1;
+}
+
+/*Mega Menu Start*/
+.has-mega-menu .mega-menu > li ul li:hover > a {
+  color: #e47c3f;
+}
+
+/* -------------------------------------------------------------------------------------
+   Home Page 17 Start
+   ---------------------------------------------------------------------------------------*/
+/* Home Page 17 Banner Section Css Start */
+.twm-home-17-banner-section {
+  background-color: #fff2eb;
+}
+.twm-home-17-banner-section > .container .row .twm-bnr-right-section .twm-bnr-title-large {
+  color: #232323;
+}
+.twm-home-17-banner-section > .container .row .twm-bnr-right-section .twm-bnr-title-large span {
+  background-color: #e47c3f;
+}
+.twm-home-17-banner-section .twm-bnr-left-section .twm-bnr-left-content .bnr-bg-circle span {
+  background-color: #fff;
+}
+.twm-home-17-banner-section .twm-bnr-left-section .twm-bnr-left-content .bnr-bg-circle span:after {
+  background-color: #e47c3f;
+}
+.twm-home-17-banner-section .twm-bnr-left-section .twm-bnr-left-content .bnr-bg-circle span:before {
+  background-color: #e47c3f;
+}
+
+.twm-home-17-v-text-wrap .twm-17-v-text span {
+  text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+}
+.twm-home-17-v-text-wrap:after {
+  background-color: #232323;
+}
+
+.header-search-icon.dark {
+  color: #232323;
+}
+
+/*------------------------------------------------------------------
+	Home Page 18
+------------------------------------------------------------------*/
+/* Home Page 18 Banner Section Css Start*/
+.twm-home18-banner-section .row .twm-bnr-left-section .twm-bnr-title-large {
+  color: #232323;
+}
+.twm-home18-banner-section .row .twm-h-page-18-bnr-right-section .twm-shape-l {
+  border: 40px solid #e47c3f;
+}
+.twm-home18-banner-section .row .twm-h-page-18-bnr-right-section .twm-shape-2 {
+  border: 40px solid #3a2908;
+}/*# sourceMappingURL=skin-3.css.map */
